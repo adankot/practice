@@ -1,4 +1,4 @@
-# Első feladat
+# Második feladat
 
 A függvényednek ellenőriznie kell, hogy a szám amit kapott, nagyobb-e 10-nél.
 

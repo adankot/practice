@@ -1,4 +1,4 @@
-# Első feladat
+# Harmadik feladat
 
 A függvényednek egy 3 elemű tömböt kell visszaadnia!
 

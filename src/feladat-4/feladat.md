@@ -1,4 +1,4 @@
-# Első feladat
+# Negyedik feladat
 
 A függvényednek egy objectet kell visszaadnia, amiben 1 `count` nevű kulcs szerepel és az értéke 10!
 
